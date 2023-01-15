@@ -11,3 +11,6 @@ http://www.oracle.com/technetwork/developer-tools/sql-developer/downloads/index.
 
 3. Java JDK
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+***Script to allow CREATE USER***
+ALTER SESSION SET "_ORACLE_SCRIPT"=TRUE;
